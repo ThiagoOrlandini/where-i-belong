@@ -22,6 +22,7 @@ Interpretação subjetiva do jogador
 Tudo isso respeitando as limitações de tempo e escopo de uma Game Jam.
 
 🧠 Minhas Atividades no Projeto
+
 🎮 Game Design
 
 Definição do fluxo do jogador e ritmo da experiência
@@ -87,7 +88,9 @@ Execute o arquivo Where I Belong
 📸 Imagens e Vídeos
 
 ![Gameplay](docs/gif/gameplay.gif)
-![Scenes](docs/screenshots/screenshot_01.png)(docs/screenshots/screenshot_02.png)(docs/screenshots/screenshot_03.png)
+![Scenes1](docs/screenshots/screenshot_01.png)
+![Scenes2](docs/screenshots/screenshot_02.png)
+![Scenes3](docs/screenshots/screenshot_03.png)
 
 👥 Equipe
 
