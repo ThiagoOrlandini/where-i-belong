@@ -87,13 +87,10 @@ Esses elementos influenciaram diretamente decisões de **design, ritmo e intera�
 
 ## 📸 Imagens e Vídeos
 
-```markdown
-![Screenshots](docs/screenshots/screenshot_01.png)
-![Screenshots](docs/screenshots/screenshot_02.png)
-![Screenshots](docs/screenshots/screenshot_03.png)
-
-![Gameplay](docs/gifs/gameplay.gif)
-```
+<img src="docs/screenshots/screenshot_01.png" width="450" align="left">
+<img src="docs/screenshots/screenshot_02.png" width="450" align="rigth">
+<img src="docs/screenshots/screenshot_03.png" width="450" align="left">
+<img src="docs/gifs/gameplay.gif" width="450" align="rigth">
 
 ---
 
